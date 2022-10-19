@@ -82,6 +82,7 @@ profile_default/
 ipython_config.py
 #python 
 config.py
+api_keys.py
 
 
 # pyenv
